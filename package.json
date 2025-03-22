@@ -1,0 +1,26 @@
+{
+  "name": "clube-elas-em-forma",
+  "version": "1.0.0",
+  "description": "CEF - um aplicação web/pwa para nutricionistas e membros do clube gerenciarem e interagirem durante as edições.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peraltapam/clube-elas-em-forma.git"
+  },
+  "author": "Pamela M Peralta",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.2.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.13.11",
+    "@types/react": "19.0.12",
+    "prettier": "^3.5.3",
+    "typescript": "5.8.2"
+  }
+}
