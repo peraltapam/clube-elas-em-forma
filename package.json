@@ -4,7 +4,9 @@
   "description": "CEF - um aplicação web/pwa para nutricionistas e membros do clube gerenciarem e interagirem durante as edições.",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
   },
   "repository": {
     "type": "git",
